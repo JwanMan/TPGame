@@ -1,0 +1,312 @@
+# depslib dependency file v1.0
+1525599899 source:/home/juan/Desktop/univ2/tp/pr/Game/error.c
+	<errno.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<stdio.h>
+	<stdlib.h>
+	"error.h"
+
+1525607895 /home/juan/Desktop/univ2/tp/pr/Game/error.h
+
+1525606956 source:/home/juan/Desktop/univ2/tp/pr/Game/block.c
+	<malloc.h>
+	"block.h"
+	"constants.h"
+	"error.h"
+	"item.h"
+	"player.h"
+
+1525604991 /home/juan/Desktop/univ2/tp/pr/Game/block.h
+	"collision_type.h"
+	"item.h"
+	"player.h"
+	"screen.h"
+
+1525604938 /home/juan/Desktop/univ2/tp/pr/Game/collision_type.h
+
+1525605071 /home/juan/Desktop/univ2/tp/pr/Game/item.h
+	"collision_type.h"
+	"player.h"
+	"screen.h"
+
+1525605490 /home/juan/Desktop/univ2/tp/pr/Game/player.h
+	"screen.h"
+
+1525599981 /home/juan/Desktop/univ2/tp/pr/Game/screen.h
+	<SDL2/SDL.h>
+
+1525606074 /home/juan/Desktop/univ2/tp/pr/Game/constants.h
+
+1525628815 source:/home/juan/Desktop/univ2/tp/pr/Game/block_list.c
+	<malloc.h>
+	"error.h"
+	"block.h"
+	"block_list.h"
+	"screen.h"
+
+1525614379 /home/juan/Desktop/univ2/tp/pr/Game/block_list.h
+	"block.h"
+	"screen.h"
+
+1525605767 source:/home/juan/Desktop/univ2/tp/pr/Game/collision.c
+	"block.h"
+	"block_list.h"
+	"collision.h"
+	"item.h"
+	"item_list.h"
+	"player.h"
+
+1525604940 /home/juan/Desktop/univ2/tp/pr/Game/collision.h
+	"block_list.h"
+	"collision_type.h"
+	"item_list.h"
+	"player.h"
+
+1525629388 /home/juan/Desktop/univ2/tp/pr/Game/item_list.h
+	"item.h"
+	"screen.h"
+
+1525605860 source:/home/juan/Desktop/univ2/tp/pr/Game/item.c
+	<malloc.h>
+	<stdlib.h>
+	"collision_type.h"
+	"constants.h"
+	"error.h"
+	"item.h"
+	"player.h"
+	"screen.h"
+
+1525629432 source:/home/juan/Desktop/univ2/tp/pr/Game/item_list.c
+	<malloc.h>
+	"collision_type.h"
+	"error.h"
+	"item.h"
+	"item_list.h"
+	"screen.h"
+
+1525638419 source:/home/juan/Desktop/univ2/tp/pr/Game/main.c
+	<stdio.h>
+	<string.h>
+	"error.h"
+	"screen.h"
+	"world.h"
+
+1525626674 /home/juan/Desktop/univ2/tp/pr/Game/world.h
+	<stdio.h>
+	"screen.h"
+
+1525625971 source:/home/juan/Desktop/univ2/tp/pr/Game/player.c
+	"collision_type.h"
+	"constants.h"
+	"error.h"
+	"player.h"
+	"screen.h"
+
+1525631696 source:/home/juan/Desktop/univ2/tp/pr/Game/screen.c
+	<malloc.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<string.h>
+	"error.h"
+	"screen.h"
+
+1525629405 source:/home/juan/Desktop/univ2/tp/pr/Game/world.c
+	<malloc.h>
+	<stdio.h>
+	"block.h"
+	"block_list.h"
+	"collision.h"
+	"collision_type.h"
+	"error.h"
+	"item.h"
+	"item_list.h"
+	"screen.h"
+	"world.h"
+
+1525704695 source:c:\users\alumno\downloads\game\game\código\block_list.c
+	<malloc.h>
+	"error.h"
+	"block.h"
+	"block_list.h"
+	"screen.h"
+
+1525800003 c:\users\alumno\downloads\game\game\código\error.h
+
+1525715885 c:\users\alumno\downloads\game\game\código\block.h
+	"collision_type.h"
+	"item.h"
+	"player.h"
+	"screen.h"
+
+1525716019 c:\users\alumno\downloads\game\game\código\collision_type.h
+
+1525788190 c:\users\alumno\downloads\game\game\código\item.h
+	"collision_type.h"
+	"player.h"
+	"screen.h"
+
+1525719674 c:\users\alumno\downloads\game\game\código\player.h
+	"screen.h"
+
+1525799945 c:\users\alumno\downloads\game\game\código\screen.h
+	<SDL2/SDL.h>
+
+1525715902 c:\users\alumno\downloads\game\game\código\block_list.h
+	"block.h"
+	"screen.h"
+
+1525790039 source:c:\users\alumno\downloads\game\game\código\collision.c
+	<math.h>
+	"block.h"
+	"block_list.h"
+	"collision.h"
+	"collision_type.h"
+	"item.h"
+	"item_list.h"
+	"player.h"
+
+1525790840 c:\users\alumno\downloads\game\game\código\collision.h
+	"block_list.h"
+	"collision_type.h"
+	"item_list.h"
+	"player.h"
+
+1525781263 c:\users\alumno\downloads\game\game\código\item_list.h
+	"item.h"
+	"screen.h"
+
+1525792851 source:c:\users\alumno\downloads\game\game\código\item_list.c
+	<malloc.h>
+	"collision_type.h"
+	"error.h"
+	"item.h"
+	"item_list.h"
+	"screen.h"
+
+1525794474 source:c:\users\alumno\downloads\game\game\código\main.c
+	<stdio.h>
+	<string.h>
+	"error.h"
+	"player.h"
+	"screen.h"
+	"world.h"
+
+1525719460 c:\users\alumno\downloads\game\game\código\world.h
+	<stdio.h>
+	"screen.h"
+
+1525790808 source:c:\users\alumno\downloads\game\game\código\world.c
+	<malloc.h>
+	<stdio.h>
+	"block.h"
+	"block_list.h"
+	"collision.h"
+	"collision_type.h"
+	"error.h"
+	"item.h"
+	"item_list.h"
+	"screen.h"
+	"world.h"
+
+1525794528 source:c:\users\alumno\downloads\game\game\código\player.c
+	<malloc.h>
+	"collision_type.h"
+	"block.h"
+	"error.h"
+	"player.h"
+	"screen.h"
+
+1525704694 source:c:\users\alumno\desktop\game\game\código\block_list.c
+	<malloc.h>
+	"error.h"
+	"block.h"
+	"block_list.h"
+	"screen.h"
+
+1525800002 c:\users\alumno\desktop\game\game\código\error.h
+
+1525715884 c:\users\alumno\desktop\game\game\código\block.h
+	"collision_type.h"
+	"item.h"
+	"player.h"
+	"screen.h"
+
+1525716018 c:\users\alumno\desktop\game\game\código\collision_type.h
+
+1525788190 c:\users\alumno\desktop\game\game\código\item.h
+	"collision_type.h"
+	"player.h"
+	"screen.h"
+
+1525719674 c:\users\alumno\desktop\game\game\código\player.h
+	"screen.h"
+
+1525799944 c:\users\alumno\desktop\game\game\código\screen.h
+	<SDL2/SDL.h>
+
+1525715902 c:\users\alumno\desktop\game\game\código\block_list.h
+	"block.h"
+	"screen.h"
+
+1525790038 source:c:\users\alumno\desktop\game\game\código\collision.c
+	<math.h>
+	"block.h"
+	"block_list.h"
+	"collision.h"
+	"collision_type.h"
+	"item.h"
+	"item_list.h"
+	"player.h"
+
+1525790840 c:\users\alumno\desktop\game\game\código\collision.h
+	"block_list.h"
+	"collision_type.h"
+	"item_list.h"
+	"player.h"
+
+1525781262 c:\users\alumno\desktop\game\game\código\item_list.h
+	"item.h"
+	"screen.h"
+
+1525792850 source:c:\users\alumno\desktop\game\game\código\item_list.c
+	<malloc.h>
+	"collision_type.h"
+	"error.h"
+	"item.h"
+	"item_list.h"
+	"screen.h"
+
+1525794474 source:c:\users\alumno\desktop\game\game\código\main.c
+	<stdio.h>
+	<string.h>
+	"error.h"
+	"player.h"
+	"screen.h"
+	"world.h"
+
+1525719460 c:\users\alumno\desktop\game\game\código\world.h
+	<stdio.h>
+	"screen.h"
+
+1525794528 source:c:\users\alumno\desktop\game\game\código\player.c
+	<malloc.h>
+	"collision_type.h"
+	"block.h"
+	"error.h"
+	"player.h"
+	"screen.h"
+
+1525790808 source:c:\users\alumno\desktop\game\game\código\world.c
+	<malloc.h>
+	<stdio.h>
+	"block.h"
+	"block_list.h"
+	"collision.h"
+	"collision_type.h"
+	"error.h"
+	"item.h"
+	"item_list.h"
+	"screen.h"
+	"world.h"
+
