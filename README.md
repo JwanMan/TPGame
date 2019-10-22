@@ -36,7 +36,5 @@ The documentation for Doxygen (in the header files) is in Spanish as this
 was required. The instructions screen is in Spanish as well.
 
 The default level is `1w`, and the format is the one being parsed at `world.c`.
-Bugs likely remain. Pull requests are very welcome and will (likely) be accepted
-if they are actual improvements of the game (i.e. more levels, features, level 
-selection, fine-tuning, bug fixes, etc.) while not breaking other stuff or
-changing other things just because.
+Bugs likely remain. Contributions are welcome, just keep in mind that the main
+purpose of this repository is educational.
